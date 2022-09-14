@@ -1,0 +1,1 @@
+this directory contains scripts which are supposed solution to the alx-software enginerring course
