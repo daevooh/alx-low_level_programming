@@ -1,0 +1,1 @@
+this directory contains debugging script for the alx software engineering course.
