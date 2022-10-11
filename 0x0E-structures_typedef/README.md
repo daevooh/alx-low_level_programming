@@ -1,0 +1,1 @@
+This directory contains projrct solution for ALX software engineering structures,typedef module.
