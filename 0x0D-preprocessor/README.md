@@ -1,0 +1,1 @@
+This directory contains C script which are solutions for the ALX 0x0D C-preprocesor project.
