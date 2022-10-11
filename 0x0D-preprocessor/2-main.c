@@ -8,6 +8,5 @@
 int main(void)
 {
     prints("%s\n", __FILE__);
-
     return(0);
 }
