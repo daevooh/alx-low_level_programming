@@ -1,0 +1,1 @@
+this directory contains c scripts which are solutions to the ALX software engineering course. 
