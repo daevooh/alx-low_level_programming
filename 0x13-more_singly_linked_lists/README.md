@@ -1,0 +1,1 @@
+This directory contains c files which are the soltions to the alx 0x10 C-more singly linked lists. 
