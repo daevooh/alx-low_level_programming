@@ -1,0 +1,1 @@
+this directory contains solutions to the ALX software engineering projects. 
