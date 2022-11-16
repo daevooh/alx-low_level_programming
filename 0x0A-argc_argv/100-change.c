@@ -34,5 +34,6 @@ int main(int argc, char *argv[])
 		ncoins += 1;
 	}
 	printf("%d\n", ncoins);
+	printf("hellow world");
 	return (0);
 }
