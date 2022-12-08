@@ -1,0 +1,1 @@
+This directory contains c scripts which are solutions to the alx dobly_linked_lists tasks. 
