@@ -1,0 +1,1 @@
+This directory contains ALX c-language solutions to the dynamic_libraries projects.
